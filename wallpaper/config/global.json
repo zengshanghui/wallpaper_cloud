@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.0"
+  },
+  "applications": {
+    "_default": {
+      "link": "wallpaper"
+    },
+    "wallpaper": {
+      "applicationId": "uiSu6Q7lhJrSok2Ne8swVDPhDkT4ltRNK6Uurqc1",
+      "masterKey": "EjNhUXA40o2WrZOy1szoBgikyJRgKYpi5aEGqqpd"
+    }
+  }
+}
